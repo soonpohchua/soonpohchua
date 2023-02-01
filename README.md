@@ -1,4 +1,4 @@
-#### Thank you for visiting my GitHub Profile 🍻
+#### Welcome to my GitHub Profile 🍻
 
 #### Below are my projects as a student while undergoing General Assembly's Data Science Immersive Course.
 
