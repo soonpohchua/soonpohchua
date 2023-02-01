@@ -1,4 +1,7 @@
-## Thank you for visiting my GitHub Profile 🍻
+### Thank you for visiting my GitHub Profile 🍻
+
+### Below are my projects as a student while undergoing General Assembly's Data Science Immersive Course.
+
 <!--
 **soonpohchua/soonpohchua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
